@@ -9,18 +9,6 @@ html {
   min-height: 100%;
 }
 
-#logo {
-  height: 60px;
-  padding-top: 20px;
-  padding-bottom: 5px;
-  margin-left: 70px;
-  font-family: Georgia, serif;
-  font-size: 25px;
-  font-weight: bold;
-  color: #fff;
-  background: #4aaaa5;
-}
-
 
 .about-me-header {
   margin-bottom: 30px;
@@ -88,7 +76,7 @@ html {
   background-color: #666;
 }
 
-.text-muted-footer {
+.text-footer {
   margin-top: 15px;
   color: #fff;
 }
@@ -133,15 +121,6 @@ html {
 
 .contact-hr {
   margin-bottom: 30px;
-}
-
-.submit-btn {
-  padding: 15px 30px;
-  font-size: 15px;
-  font-weight: lighter;
-  color: #fff;
-  background-color: #4aaaa5;
-  border: 0;
 }
 
 #portfolio-area {
